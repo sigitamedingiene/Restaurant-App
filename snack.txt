@@ -1,0 +1,17 @@
+Vanduo "Akvile" gaz. , 2
+Vanduo "Akvile" negaz., 2
+Namine duonos gira 0.4l., 2.50
+Gazuotas gerimas "Pepsi" 0.2l., 2
+Gazuotas gerimas "Miranda" 0.2l., 2
+Apelsinu sultys 0.25l., 2.50
+Mangu-bananu sultys 0.25l., 2.50
+Svieziai spaustos sultys 0.3l., 4
+Juoda kava, 2
+Espresso, 2
+Latte, 2.70
+Kakava, 2
+Arbata, 2
+Alus "Beganti kopa", 4
+Alus "Brooklyn", 4.20
+Alus "Svyturys Ekstra", 4
+Vynas, 5.50
